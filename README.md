@@ -71,7 +71,7 @@ The output of the estimation can be seen in the first figure of this file.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-The first two parts regarding the synthetic generation of radar signals is in matlab. Open each folder and execute the script in the root.
+The first two parts regarding the synthetic generation of radar signals are in matlab. Open each folder and execute the script in the root.
 
 The use of the dataset, as well as the training, is done in a Python notebook.
 Please open the project with the folder as root.
